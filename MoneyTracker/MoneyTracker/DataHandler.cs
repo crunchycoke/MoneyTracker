@@ -8,5 +8,6 @@ namespace MoneyTracker
 {
     class DataHandler
     {
+        //datahandling
     }
 }
